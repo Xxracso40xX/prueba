@@ -11,7 +11,7 @@ import java.awt.event.WindowListener;
 
 public class Aficiones extends Frame implements WindowListener, ActionListener
 {
-	
+	//ODIO LOS COMMIT.
 	
 	Checkbox chkUno = new Checkbox("Deporte", false);
 	Checkbox chkDos = new Checkbox("Lectura", false);
