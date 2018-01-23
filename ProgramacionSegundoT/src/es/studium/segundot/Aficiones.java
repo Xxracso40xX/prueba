@@ -25,7 +25,7 @@ public class Aficiones extends Frame implements WindowListener, ActionListener
 	Checkbox chkdiez = new Checkbox("Botánica", false);
 	Button btnBoton1 = new Button ("Dime qué me gusta");
 	Button btnBoton2 = new Button ("Dime qué me gusta");
-	Button btnBoton3 = new Button ("Dime qué me gusta");
+
 	
 	private static final long serialVersionUID = 1L;
 
